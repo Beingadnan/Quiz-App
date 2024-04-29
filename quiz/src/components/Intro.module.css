@@ -1,0 +1,6 @@
+.mainContainer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    align-items: center;
+}
