@@ -1,2 +1,2 @@
 # Quiz-App
-# Reactjs Quiz App
+# Quiz App Using Reactjs
